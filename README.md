@@ -4,9 +4,12 @@ This repository contains the solution to the Websocket challenge.
 
 ## Challenge
 
-1. Create a different frontend to display the cargo data as it is updated.
+1. Specify a custom bean name. Change the bean name used in the view to tracker.
 
-2. Add a chat client that allows public website uses to chat with admin users about the cargo they are tracking
+2. Explore the primefaces website. Visit primefaces.org.
+
+3. Replace autocomplete with dropdown. Replace with a drop down already populated with all tracking IDs.
+
 
 ## Solution
 
