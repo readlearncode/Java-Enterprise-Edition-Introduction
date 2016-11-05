@@ -4,7 +4,7 @@ This repository contains the solution to the JSF challenge.
 
 ## Challenge
 
-1. Specify a custom bean name for the **Track** bean e.g. tracker and then change the bean name in the view **track.xhtml**.
+1. Specify a custom bean name for the **Track** bean e.g. **tracker** and then change the bean name in the view **track.xhtml**.
 
 2. Explore the primefaces website www.primefaces.org.
 
