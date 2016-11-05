@@ -1,6 +1,6 @@
-# EJB Challenge Solution
+# CDI Challenge Solution
 
-This repository contains the solution to the EJB challenge.
+This repository contains the solution to the CDI challenge.
 
 ## Challenge
 
