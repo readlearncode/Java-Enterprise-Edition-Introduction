@@ -1,3 +1,7 @@
 .idea
 /cargo-tracker.iml
 /.gitignore
+.gitignore
+.idea/
+cargo-tracker.iml
+src/
