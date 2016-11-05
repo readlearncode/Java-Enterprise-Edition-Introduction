@@ -14,5 +14,12 @@ For the solution you will need a method that listens for cargo events and a coll
 
 This will be a backing bean so that it is visible to a JSF view and also it should have application scope because we want it to maintain the list of cargos across all sessions.
 
-Now we need a view to display the cargos. Here I have created a view named **showHandledCargos** and I use the dataTable component from prime faces. You can visit the www.primefaces.org web site to more ways to display data.
+Now we need a view to display the cargos. Here I have created a view named **showHandledCargos** and I use the **dataTable** component from prime faces. You can visit the www.primefaces.org web site to more ways to display data.
+
+## Solution Files
+
+The class file **HandledCargo** should reside in the package **net.java.cargotracker.interfaces.tracking.web**.
+
+The JSF template file **showHandledCargos.xhtml** should reside in the **src/main/webapp/admin/** directory.
+
 
