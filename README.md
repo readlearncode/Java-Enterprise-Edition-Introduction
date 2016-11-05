@@ -1,6 +1,6 @@
-# EJB Challenge Solution
+# Java 8 Refactoring 
 
-This repository contains the solution to the EJB challenge.
+This repository contains the file refactored in the Java 8 video.
 
 ## Challenge
 
