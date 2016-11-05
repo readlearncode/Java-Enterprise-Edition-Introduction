@@ -1,6 +1,6 @@
-# Websocket Challenge Solution
+# JSF Challenge Solution
 
-This repository contains the solution to the Websocket challenge.
+This repository contains the solution to the JSF challenge.
 
 ## Challenge
 
