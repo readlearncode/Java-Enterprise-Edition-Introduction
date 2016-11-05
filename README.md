@@ -16,7 +16,7 @@ Repository: https://github.com/readlearncode/Java-Enterprise-Edition-Introductio
 
 ## JMS-Challenge-Solution
 
-The solution to the JMS challenge: https://github.com/readlearncode/Java-Enterprise-Edition-Introduction/tree/JSF-Challenge-Solution
+The solution to the [JMS challenge](https://github.com/readlearncode/Java-Enterprise-Edition-Introduction/tree/JSF-Challenge-Solution)
 
 ## CDI-Challenge-Solution
 
