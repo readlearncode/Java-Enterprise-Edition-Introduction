@@ -18,7 +18,7 @@ Now we need a view to display the cargos. Here I have created a view named **sho
 
 ## Solution Files
 
-The class file **HandledCargo** should reside in the package **net.java.cargotracker.interfaces.tracking.web**.
+The class file **HandledCargo.class** should reside in the package **net.java.cargotracker.interfaces.tracking.web**.
 
 The JSF template file **showHandledCargos.xhtml** should reside in the **src/main/webapp/admin/** directory.
 
