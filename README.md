@@ -5,7 +5,7 @@ You will find the code repositories used during the course Java Enterprise Editi
 
 ## original
 
-This repository contains the source code for the [Cargo Tracker application](https://cargotracker.java.net/)
+This repository contains the source code for the [Cargo Tracker application](https://cargotracker.java.net/).
 
 If you wish to use NetBeans, intructions are found in the [Get Started](https://cargotracker.java.net/#getstarted) section.
 
@@ -15,23 +15,23 @@ The [Cargo Tracker](https://github.com/readlearncode/Java-Enterprise-Edition-Int
 
 ## JMS-Challenge-Solution
 
-The solution to the [JMS challenge](https://github.com/readlearncode/Java-Enterprise-Edition-Introduction/tree/JSF-Challenge-Solution)
+The solution to the [JMS challenge](https://github.com/readlearncode/Java-Enterprise-Edition-Introduction/tree/JMS-Challenge-Solution).
 
 ## CDI-Challenge-Solution
 
-The solution to the [CDI challenge](https://github.com/readlearncode/Java-Enterprise-Edition-Introduction/tree/CDI-Challenge-Solution)
+The solution to the [CDI challenge](https://github.com/readlearncode/Java-Enterprise-Edition-Introduction/tree/CDI-Challenge-Solution).
 
 ## JSF-Challenge-Solution
 
-The solution to the [JSF challenge](https://github.com/readlearncode/Java-Enterprise-Edition-Introduction/tree/JSF-Challenge-Solution)
+The solution to the [JSF challenge](https://github.com/readlearncode/Java-Enterprise-Edition-Introduction/tree/JSF-Challenge-Solution).
 
 ## Websocket-Challenge-Solution
 
-The solution to the [Websocket challenge](https://github.com/readlearncode/Java-Enterprise-Edition-Introduction/tree/Websockets-Challenge-Solution)
+The solution to the [Websocket challenge](https://github.com/readlearncode/Java-Enterprise-Edition-Introduction/tree/Websockets-Challenge-Solution).
 
 ## Java 8 Refactoring
 
-The solution to the [Java 8 Refactoring](https://github.com/readlearncode/Java-Enterprise-Edition-Introduction/tree/Java-8-Refactoring)
+The solution to the [Java 8 Refactoring](https://github.com/readlearncode/Java-Enterprise-Edition-Introduction/tree/Java-8-Refactoring).
 
 
 
