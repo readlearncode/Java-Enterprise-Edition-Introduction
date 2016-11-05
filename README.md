@@ -1,2 +1,3 @@
-# Java-Enterprise-Edition-Introduction
-LinkedIn Java Enterprise Edition introduction course: code and solutions
+# JMS Challenge Solution
+
+This repository contains the solution to the JMS challenge
