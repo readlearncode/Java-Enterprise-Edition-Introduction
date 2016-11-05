@@ -20,7 +20,7 @@ Let’s return to the backend and look at the **DefaultBookingServiceFacade**. T
 
 And if we scroll down we can see just such a method. The **listAllCargos()** method returns a list of all cargos currently logged into the system.
 
-What we need to do is to make this list of cargos available to the CDI service and visible to JSF. As we have seen before we make a bean visible to JSF by annotating it @Named and available to CDI by annotating it **@Produces**. We want the list of cargos to be fresh for every request the user makes so we must annotate the method @RequestScoped.
+What we need to do is to make this list of cargos available to the CDI service and visible to JSF. As we have seen before we make a bean visible to JSF by annotating it **@Named** and available to CDI by annotating it **@Produces**. We want the list of cargos to be fresh for every request the user makes so we must annotate the method **@RequestScoped**.
 
 And that’s it for the backend, we now have a list of cargo objects available for a JSF view to use.
 
