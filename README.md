@@ -3,7 +3,7 @@ LinkedIn Java Enterprise Edition introduction course: code and solutions
 
 You will find the code repositories used during the course Java Enterprise Edition Introduction.
 
-## original
+## Cargo-Tracker
 
 This repository contains the source code for the [Cargo Tracker application](https://cargotracker.java.net/).
 
