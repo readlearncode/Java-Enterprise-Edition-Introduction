@@ -11,7 +11,7 @@ If you wish to use NetBeans, intructions are found in the [Get Started](https://
 
 Once the application starts up, just open up a browser and navigate to http://localhost:8080/cargo-tracker/.
 
-The [Cargo Tracker source](https://github.com/readlearncode/Java-Enterprise-Edition-Introduction/tree/original) used in the course.
+The [Cargo Tracker source](https://github.com/readlearncode/Java-Enterprise-Edition-Introduction/tree/Cargo-Tracker) used in the course.
 
 ## JMS-Challenge-Solution
 
